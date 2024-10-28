@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itachilee on 咏师傅的小站</title>
+    <link>https://learnrust.com.cn/itachilee/</link>
+    <description>Recent content in Itachilee on 咏师傅的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>itachilee9527@gmail.com (itachilee)</managingEditor>
+    <webMaster>itachilee9527@gmail.com (itachilee)</webMaster>
+    <copyright>© 2024 itachilee</copyright>
+    <atom:link href="https://learnrust.com.cn/itachilee/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
